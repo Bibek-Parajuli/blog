@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.card{
+    height: 200px;
+    width: 350px;
+    border: 3px solid red;
+    margin: 15px;
+}
+.title{
+    margin-left: 50%;
+}
+.content{
+    margin-top: 3px;
+}
+.bottom{
+    display: flex;
+    gap: 2rem;
+    position: relative;
+    top: 60%;
+}
+.bottom span{
+    cursor: pointer;
+
+}
+.container{
+    display: flex;
+     /* flex-direction: column; */
+    flex-wrap: wrap;
+    /* width: 100%;  */
+}
