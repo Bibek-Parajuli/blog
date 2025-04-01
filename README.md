@@ -1,1 +1,1 @@
-This is a mern stack blog app
+This is the simple blog application i have created for learning purpose , we can create , read , update and delete blog. This doesnot contain any user authentication i just create this  to learn how backend node and express work together with frontend react. This is my first beginner project where i learn how to make apis in backend and use these api's in frontend.
